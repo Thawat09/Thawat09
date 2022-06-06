@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Thawat09
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Thawat
+
+- 👀 I’m interested in Developer
+      
+- 🌱 I’m currently learning node.Js & mongoDB
+
+- 📫 How to reach me eae_01904@hotmail.com
 
 <!---
 Thawat09/Thawat09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
