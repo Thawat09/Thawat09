@@ -1,9 +1,5 @@
 👋 Hello, I'm Thawat.
 
-👀 I'm interested in developers.
-
-🌱 I am a student Learning about Full Stack positions and functions.
-
 - 📫 How to reach me eae_01904@hotmail.com
 
 <!---
