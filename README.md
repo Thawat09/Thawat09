@@ -3,6 +3,7 @@
 🌏 I live in Thailand.
 
 📫 How to reach me.
+  - LinkedIn : www.linkedin.com/in/thawat-meechamnan-76b94b271
   - Email : eae_01904@hotmail.com
   - Facebook : https://www.facebook.com/thawat.meechamnan
   - Instagram : https://instagram.com/thawat_9?igshid=YmMyMTA2M2Y=
