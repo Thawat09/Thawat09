@@ -19,6 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
 ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?logo=.net&logoColor=white&style=flat-square)
 
 ### Frameworks & Libraries
@@ -28,6 +29,7 @@
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white&style=flat-square)
 ![Laravel](https://img.shields.io/badge/-Laravel-EA4335?logo=laravel&logoColor=white&style=flat-square)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net&logoColor=white&style=flat-square)
 
 ### Tools & Platforms
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
@@ -44,6 +46,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
 ### Development Tools
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Terminus](https://img.shields.io/badge/-Terminus-2D2D2D?logo=terminus&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Navicat](https://img.shields.io/badge/-Navicat-000000?logo=navicat&logoColor=white&style=flat-square)
