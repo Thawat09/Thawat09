@@ -27,6 +27,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white&style=flat-square)
+![Laravel](https://img.shields.io/badge/-Laravel-EA4335?logo=laravel&logoColor=white&style=flat-square)
 
 ### Tools & Platforms
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
@@ -41,6 +42,15 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+
+### Development Tools
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Navicat](https://img.shields.io/badge/-Navicat-000000?logo=navicat&logoColor=white&style=flat-square)
+![SourceTree](https://img.shields.io/badge/-SourceTree-0089B6?logo=sourcetree&logoColor=white&style=flat-square)
+
+### CI/CD
+![Azure Pipeline](https://img.shields.io/badge/-Azure%20Pipeline-0078D4?logo=azure-devops&logoColor=white&style=flat-square)
 
 ---
 
