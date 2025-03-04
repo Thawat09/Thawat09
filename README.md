@@ -59,4 +59,4 @@
 
 ---
 
-🚀 *Feel free to reach out or connect with me!*
+🚀
