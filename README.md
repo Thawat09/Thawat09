@@ -5,10 +5,10 @@
 ---
 
 ## 📫 **How to reach me**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/thawat-meechamnan-76b94b271)  
-- ✉️ [Email](mailto:eae_01904@hotmail.com)  
-- 📘 [Facebook](https://www.facebook.com/thawat.meechamnan)  
-- 📷 [Instagram](https://instagram.com/thawat_9?igshid=YmMyMTA2M2Y=)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/thawat-meechamnan-76b94b271/)  
+- ✉️ [Email](mailto:thawat.meec@hotmail.com)  
+- 📘 [Facebook](https://www.facebook.com/thawat.meec)  
+- 📷 [Instagram](https://www.instagram.com/thawat.meec)
 
 ---
 
